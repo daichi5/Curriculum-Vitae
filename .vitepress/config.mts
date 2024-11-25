@@ -15,5 +15,6 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/daichi5' }
     ]
-  }
+  },
+  base: '/Curriculum-Vitae/'
 })
